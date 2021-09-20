@@ -1,6 +1,6 @@
 # Welcome to Popsa :wave:
 
-We help people relive their best experiences by turning them into beautifully designed products, automatically!
+We help people relive their best experiences by turning their photos into beautifully designed products, automatically!
 
 ![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a light grey background](https://cdn.popsa.io/website/images/banners/hero-background-28.jpg)
 
