@@ -2,7 +2,10 @@
 
 We help people relive their best experiences by turning their photos into beautifully designed products, automatically!
 
-![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a light grey background](https://cdn.popsa.io/website/images/banners/hero-background-28.jpg)
+<!-- ![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a light grey background](https://cdn.popsa.io/website/images/banners/hero-background-28.jpg) -->
+
+![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a purple and pink background](https://user-images.githubusercontent.com/5830938/136846572-04315341-0058-445e-8485-3b0af3f7f0f5.png)
+
 
 ## Join Popsa
 
