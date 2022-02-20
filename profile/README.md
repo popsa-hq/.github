@@ -1,15 +1,16 @@
 # Welcome to Popsa :wave:
 
-We help people relive their best experiences by turning their photos into beautifully designed products, automatically!
+We help people relive their best experiences by turning their photos into beautifully designed products, automatically! ✨
 
 <!-- ![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a light grey background](https://cdn.popsa.io/website/images/banners/hero-background-28.jpg) -->
 
 ![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a purple and pink background](https://user-images.githubusercontent.com/5830938/136846572-04315341-0058-445e-8485-3b0af3f7f0f5.png)
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/popsa/popsa)
 
 ## Join Popsa
 
-Joining Popsa now is pretty exciting. According to Deloitte, we’re the [UK’s fastest-growing software startup of 2020](https://blog.popsa.com/popsa-named-fastest-growing-software-company-in-2020/). We have a fast-growing global customer base to match, and the backing of some of the best investors in the world. Our native iOS and Android apps are available in 12 languages – attracting more than 3 million users to date – and we ship to 50 countries around the world. Phew.
+Joining Popsa now is pretty exciting. Joining Popsa now is pretty exciting. According to Deloitte, we have now been one of the [UK’s fastest-growing tech startups for two years in a row](https://blog.popsa.com/top-10-popsa-strikes-again-deloitte/). We have a fast-growing global customer base to match, and the backing of some of the best investors in the world. Our native iOS and Android apps are available in 12 languages – attracting more than 3 million users to date – and we ship to 50 countries around the world. Phew.
 
 So why is Popsa so hot right now? The reality is, people have never taken more photos than we do today. Our phones are literally crammed with memories. But although we’re good at capturing moments – we’re not as good at doing anything with them. They’ll often sit forgotten on our devices or in the cloud. 
 
