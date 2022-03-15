@@ -10,7 +10,7 @@ We help people relive their best experiences by turning their photos into beauti
 
 ## Join Popsa
 
-Joining Popsa now is pretty exciting. Joining Popsa now is pretty exciting. According to Deloitte, we have now been one of the [UK’s fastest-growing tech startups for two years in a row](https://blog.popsa.com/top-10-popsa-strikes-again-deloitte/). We have a fast-growing global customer base to match, and the backing of some of the best investors in the world. Our native iOS and Android apps are available in 12 languages – attracting more than 3 million users to date – and we ship to 50 countries around the world. Phew.
+Joining Popsa now is pretty exciting. According to Deloitte, we have now been one of the [UK’s fastest-growing tech startups for two years in a row](https://blog.popsa.com/top-10-popsa-strikes-again-deloitte/). We have a fast-growing global customer base to match, and the backing of some of the best investors in the world. Our native iOS and Android apps are available in 12 languages – attracting more than 3 million users to date – and we ship to 50 countries around the world. Phew.
 
 So why is Popsa so hot right now? The reality is, people have never taken more photos than we do today. Our phones are literally crammed with memories. But although we’re good at capturing moments – we’re not as good at doing anything with them. They’ll often sit forgotten on our devices or in the cloud. 
 
