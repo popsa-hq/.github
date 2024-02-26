@@ -1,6 +1,4 @@
-# Welcome to Popsa :wave:
-
-We help people relive their best experiences by turning their photos into beautifully designed products, automatically! ✨
+# Welcome to Popsa - Relive Your Best Experiences
 
 <!-- ![Popsa's physical products; photobooks, calendars, photo tiles and prints; floating in the air against a light grey background](https://cdn.popsa.io/website/images/banners/hero-background-28.jpg) -->
 
@@ -8,14 +6,31 @@ We help people relive their best experiences by turning their photos into beauti
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/popsa/popsa)
 
-## Join Popsa
+## Who We Are
 
-Joining Popsa now is pretty exciting. According to Deloitte, we have now been one of the [UK’s fastest-growing tech startups for two years in a row](https://blog.popsa.com/top-10-popsa-strikes-again-deloitte/). We have a fast-growing global customer base to match, and the backing of some of the best investors in the world. Our native iOS and Android apps are available in 12 languages – attracting more than 3 million users to date – and we ship to 50 countries around the world. Phew.
+Popsa is an award-winning technology scale-up recognised for revolutionising the way people preserve their memories. We're based in Soho, London, and we've rapidly expanded our reach to become a global player, catering to an ever-growing international user-base. 
 
-So why is Popsa so hot right now? The reality is, people have never taken more photos than we do today. Our phones are literally crammed with memories. But although we’re good at capturing moments – we’re not as good at doing anything with them. They’ll often sit forgotten on our devices or in the cloud. 
+Our iOS, Android and Web applications, available in 12 languages, have captivated over 10 million users worldwide, enabling us to ship our cherished products to over 50 countries.
 
-And then Popsa came along. Founded in 2016, we’ve built an award-winning app that’s made printing your memories so easy and accessible, anyone can do it. No more barriers. No more time-wasting. In fact, everything we do as a business is designed with this ethos. We help people turn their best moments into something beautiful and lasting, in no time at all. 
+## Our Journey
 
-Today we’re best known for photobooks, but our vision of the future goes far beyond print.  We’re building a platform to help people to curate their experiences in lots of exciting ways. We want to become THE place where people come to capture their life stories. To celebrate their most important people and relationships. To create lasting meaning from their experiences. 
+Founded in 2016, Popsa has swiftly ascended to the forefront of the UK's tech startup scene, a status affirmed by Deloitte, naming us among the UK's fastest-growing tech startups consecutively for two years. Our journey, however, didn't stop there:
+
+- 2023: Listed as one of [Europe's Fastest Growing Companies by the Financial Times](https://blog.popsa.com/popsa-is-one-of-europes-fastest-growing-companies-in-2023-according-to-the-ft).
+- 2022: Ranked within the [Top 50 Fastest Growing UK Tech Companies by Deloitte](https://blog.popsa.com/popsa-in-top-50-fastest-growing-uk-tech-companies-for-the-third-year-running/) and named [Europe's 5th Fastest Growing Tech Company by the Financial Times](https://www.ft.com/ft1000-2022).
+- 2021: Featured in the Top Ten of [Deloitte's Fastest Growing UK Tech Companies](https://www.deloitte.co.uk/fast50/winners/2021/).
+- 2020: Awarded the title of the [Fastest Growing UK Software Company by Deloitte](https://www.deloitte.co.uk/fast50/winners/2020/) and recognised in the [Tech Track 100, Ones to Watch by The Sunday Times](https://blog.popsa.com/popsa-featured-by-the-sunday-times-as-one-of-fastest-growing-companies-in-uk-tech/).
+
+## Our Mission
+
+At Popsa, we're driven by a simple yet profound realisation: in an age where capturing moments has become second nature, the true essence of these memories often remains trapped within the confines of our digital devices. Our mission is to liberate these moments, transforming them into tangible treasures that not only stand the test of time but also tell the unique stories of our lives.
+
+## What We Do
+
+Best known for our photobooks, Popsa's ambit extends far beyond mere printing. We're crafting a comprehensive platform where life's narratives can be curated, celebrated, and preserved in diverse and meaningful ways. Our vision is to establish Popsa as the quintessential hub for capturing life stories, celebrating pivotal relationships, and creating enduring value from personal experiences.
+
+## Join Us
+
+As we continue to innovate and expand, we invite you to be a part of our journey. Whether you're looking to preserve your personal memories or contribute to our mission of making memory preservation effortless and accessible, Popsa offers a canvas for you to leave your mark.
 
 [**Careers at Popsa**](https://jobs.lever.co/Popsa)
